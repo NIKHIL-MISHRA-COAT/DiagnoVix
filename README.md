@@ -1,3 +1,6 @@
+# Demo Video
+📹 [Watch the demo](https://drive.google.com/file/d/1Fsd8-IpgmNo_VC2wL4rF1ZKgXlef93eV/view?usp=sharing)
+
 ## ✨ Features
 
 ### 🔍 Symptom-Based Diagnosis
